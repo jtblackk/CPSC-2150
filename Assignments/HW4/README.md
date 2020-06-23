@@ -1,1 +1,1 @@
-Implemented new requirement: allow more than two players
+Implementing new requirement: allow more than two players
