@@ -2,14 +2,14 @@ The assignments document the process of engineering an extendable, more-than-two
 
 The projects are all in Java and used the Model View Controller design pattern, Design By Contract, and Java best practices.
 
-HW1 = Requirements analysis, UML diagrams, and project skeleton for 8x8/5-win Tic-Tac-Toe in Java
+HW1 = Writng requirements analysis, UML diagrams, and project skeleton for 8x8/5-win Tic-Tac-Toe in Java
 
-HW2 = Neater documentation, classes fully implemented for 8x8/5-win Tic-Tac-Toe
+HW2 = Writing neater documentation, implementing classes for 8x8/5-win Tic-Tac-Toe
 
-HW3 = Implemented new requirements: extendable board size and variable win threshold
+HW3 = Implementing new requirements: extendable board size and customizable win threshold
 
-HW4 = Implemented new requirement: allow more than two players
+HW4 = Implementing new requirement: allow more than two players
 
-HW5 = Writing and implementation of a test suite using JUnit
+HW5 = Writing and implementing a test suite using JUnit
 
-HW6 = Plug in back-end to a GUI
+HW6 = Plugging the back-end into a GUI
