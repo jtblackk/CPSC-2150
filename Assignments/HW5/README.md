@@ -1,1 +1,1 @@
-Writing and implementation of a test suite using JUnit
+Writing and implementing a test suite using JUnit
