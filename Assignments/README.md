@@ -2,7 +2,7 @@ The assignments document the process of engineering an extendable, more-than-two
 
 The projects are all in Java and used the Model View Controller design pattern, Design By Contract, and Java best practices.
 
-HW1 = Writng requirements analysis, UML diagrams, and project skeleton for 8x8/5-win Tic-Tac-Toe in Java
+HW1 = Writing requirements analysis, UML diagrams, and project skeleton for 8x8/5-win Tic-Tac-Toe in Java
 
 HW2 = Writing neater documentation, implementing classes for 8x8/5-win Tic-Tac-Toe
 
