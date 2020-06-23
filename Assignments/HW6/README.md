@@ -1,1 +1,1 @@
-Plugging in back-end to a GUI
+Plugging the back-end into a GUI
