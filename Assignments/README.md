@@ -10,6 +10,6 @@ HW3 = Implementing new requirements: extendable board size and customizable win 
 
 HW4 = Implementing new requirement: allow more than two players
 
-HW5 = Writing and implementing a test suite using JUnit
+HW5 = Writing and building a test fixture using JUnit
 
 HW6 = Plugging the back-end into a GUI
