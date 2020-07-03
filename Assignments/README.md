@@ -12,4 +12,4 @@ HW4 = Implementing new requirement: allow more than two players
 
 HW5 = Writing and building a test fixture using JUnit
 
-HW6 = Plugging the back-end into a GUI
+HW6 = Plugging the program into a Swing GUI
