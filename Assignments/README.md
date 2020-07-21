@@ -1,7 +1,6 @@
 The assignments document the process of engineering an extendable, more-than-two-player, digital version of tic-tac-toe. It covers requirements analysis, planning with UML, and the iterative process of developing the end product. 
 
-##To play 
-just download and unzip [this file](http://www.jeffblack.info/demos/Better%20Tic%20Tac%20Toe.7z) and run the Better Tic-Tac-Toe jar file. 
+To play, just download and unzip [this file](http://www.jeffblack.info/demos/Better%20Tic%20Tac%20Toe.7z) and run the Better Tic-Tac-Toe jar file. 
 
 The projects are all in Java and used the Model View Controller design pattern, Design By Contract, and Java best practices.
 
