@@ -2,7 +2,7 @@ The assignments document the process of engineering an extendable, more-than-two
 
 To play, just download and unzip [this file](http://www.jeffblack.info/demos/Better%20Tic%20Tac%20Toe.7z) and run the Better Tic-Tac-Toe jar file. 
 
-The projects are all in Java and used the Model View Controller design pattern, Design By Contract, and Java best practices.
+The projects are all in Java and use the Model View Controller design pattern, Design By Contract, and Java best practices.
 
 HW1 = Writing requirements analysis, UML diagrams, and project skeleton for 8x8/5-win Tic-Tac-Toe in Java
 
